@@ -22,3 +22,8 @@
 	path = ingadhoc/argentina-reporting
 	url = git@github.com:ingadhoc/argentina-reporting.git
 	branch = 11.0
+
+[submodule "ingadhoc/reporting-engine"]
+	path = ingadhoc/reporting-engine
+	url = git@github.com:ingadhoc/reporting-engine.git
+	branch = 11.0
