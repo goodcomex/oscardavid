@@ -32,3 +32,8 @@
 	path = ingadhoc/aeroo_reports
 	url = git@github.com:ingadhoc/aeroo_reports.git
 	branch = 11.0
+
+[submodule "OCA/partner-contact"]
+	path = OCA/partner-contact
+	url = git@github.com:OCA/partner-contact.git
+	branch = 11.0
