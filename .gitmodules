@@ -1,0 +1,44 @@
+[submodule "ingadhoc/odoo-argentina"]
+	path = ingadhoc/odoo-argentina
+	url = git@github.com:ingadhoc/odoo-argentina.git
+	branch = 11.0
+
+[submodule "ingadhoc/account-financial-tools"]
+	path = ingadhoc/account-financial-tools
+	url = git@github.com:ingadhoc/account-financial-tools.git
+	branch = 11.0
+
+[submodule "ingadhoc/account-payment"]
+	path = ingadhoc/account-payment
+	url = git@github.com:ingadhoc/account-payment.git
+	branch = 11.0
+
+[submodule "ingadhoc/miscellaneous"]
+	path = ingadhoc/miscellaneous
+	url = git@github.com:ingadhoc/miscellaneous.git
+	branch = 11.0
+
+[submodule "ingadhoc/argentina-reporting"]
+	path = ingadhoc/argentina-reporting
+	url = git@github.com:ingadhoc/argentina-reporting.git
+	branch = 11.0
+
+[submodule "ingadhoc/reporting-engine"]
+	path = ingadhoc/reporting-engine
+	url = git@github.com:ingadhoc/reporting-engine.git
+	branch = 11.0
+
+[submodule "ingadhoc/aeroo_reports"]
+	path = ingadhoc/aeroo_reports
+	url = git@github.com:ingadhoc/aeroo_reports.git
+	branch = 11.0
+
+[submodule "OCA/partner-contact"]
+	path = OCA/partner-contact
+	url = git@github.com:OCA/partner-contact.git
+	branch = 11.0
+
+[submodule "OCA/web"]
+	path = OCA/web
+	url = git@github.com:OCA/web.git
+	branch = 11.0
